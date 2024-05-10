@@ -1,4 +1,4 @@
-# OrganizadorDeAraquivos
+# OrganizadorDeArquivos
 
 Este script em Python organiza arquivos em uma pasta com base em suas extensões.
 
